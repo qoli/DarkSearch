@@ -23,7 +23,7 @@ regexp("https?://www.google.(com|([a-z]{2}))(.[a-z]{2})?\\/_\\/chrome\\/newtab\\
     --image-label-bg: rgba(127, 127, 127, .05);
 
     --link-blue-col: #5070EC;
-    --link-blue-title-col: #9BAED2;
+    --link-blue-title-col: #fff;
     --link-blue-title-strong-col: #36C;
     --link-visited-col: #B8A7C3;
 
@@ -40,6 +40,27 @@ regexp("https?://www.google.(com|([a-z]{2}))(.[a-z]{2})?\\/_\\/chrome\\/newtab\\
     --highlight-pop-selection-bg-opaque: rgb(30, 30, 30);
 
     --base-box-shadow: 3px 3px 3px rgba(0, 0, 0, .2);
+  }
+
+  /* Update 2020-08-07 */
+  /* Fix images */
+  .cEPPT {
+    display: none;
+  }
+
+  .F9PbJd {
+    background-color: #000 !important;
+    border: none;
+  }
+
+  /* Fix News */
+  .nChh6e {
+    border: none;
+
+  }
+
+  .JheGif {
+    color: #f1f1f1 !important;
   }
 
   /* Background */
@@ -157,6 +178,11 @@ regexp("https?://www.google.(com|([a-z]{2}))(.[a-z]{2})?\\/_\\/chrome\\/newtab\\
   }
 
   /* Header */
+
+  .cEPPT {
+    border: none;
+  }
+
   .sfbg {
     background: none;
   }
