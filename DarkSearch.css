@@ -1,5 +1,5 @@
 /* ==UserStyle==
-@name			DarkSearch - Nass O (fork)
+@name			DarkSearch 2020
 ==/UserStyle== */
 
 @-moz-document regexp("https?://www.google.(com|([a-z]{2}))(.[a-z]{2})?."),
@@ -61,6 +61,20 @@ regexp("https?://www.google.(com|([a-z]{2}))(.[a-z]{2})?\\/_\\/chrome\\/newtab\\
 
   .JheGif {
     color: #f1f1f1 !important;
+  }
+
+  /* Fix search */
+  .rhscol .I6TXqe {
+    border: none;
+  }
+
+  .zVvuGd {
+    background-color: #fff;
+    border-radius: 4px;
+  }
+
+  .fl .ellip .oBrLN .S1gFKb .rOVRL {
+    color: #000 !important;
   }
 
   /* Background */
