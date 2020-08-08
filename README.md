@@ -2,9 +2,19 @@
 
 Dark theme for Google
 
-### Update
+### Update note
 
-2020-08-07
+##### 2020-08-08
+
+* Fix index more icon ( right up corner )
+
+##### 2020-08-07
+
+* Fix Search white bar
+* Fix News sytle
+* Fix images style
+
+
 
 ### Preview
 

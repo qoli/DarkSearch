@@ -16,7 +16,7 @@ regexp("https?://www.google.(com|([a-z]{2}))(.[a-z]{2})?\\/_\\/chrome\\/newtab\\
 
   :root {
     --main-bg-col: #151515;
-    --card-bg-col: #151515;
+    --card-bg-col: #2E3440;
     --pop-card-bg-col: #1A1A1A;
     --search-bar-bg: #222;
     --border-main-col: #333;
@@ -42,7 +42,13 @@ regexp("https?://www.google.(com|([a-z]{2}))(.[a-z]{2})?\\/_\\/chrome\\/newtab\\
     --base-box-shadow: 3px 3px 3px rgba(0, 0, 0, .2);
   }
 
-  /* Update 2020-08-07 */
+  /* Update 2020-08-08 */
+
+  /* Fix index */
+  .gb_C .gb_D {
+    background-position: -465px -35px;
+  }
+
   /* Fix images */
   .cEPPT {
     display: none;
