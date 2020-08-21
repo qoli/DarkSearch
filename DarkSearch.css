@@ -49,7 +49,8 @@ regexp("https?://www.google.(com|([a-z]{2}))(.[a-z]{2})?\\/_\\/chrome\\/newtab\\
     background-position: -465px -35px;
   }
 
-  .gb_4c .gb_1a .gb_3c {
+  .gb_4c .gb_1a .gb_3c,
+  .rg_i {
     border-radius: 3px;
   }
 
