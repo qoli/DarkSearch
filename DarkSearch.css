@@ -15,7 +15,7 @@ regexp("https?://www.google.(com|([a-z]{2}))(.[a-z]{2})?\\/_\\/chrome\\/newtab\\
 
 
   :root {
-    --main-bg-col: #2E3440;
+    --main-bg-col: #151515;
     --card-bg-col: #151515;
     --pop-card-bg-col: #1A1A1A;
     --search-bar-bg: #222;
@@ -1681,8 +1681,7 @@ regexp("https?://www.google.(com|([a-z]{2}))(.[a-z]{2})?\\/_\\/chrome\\/newtab\\
   .gb_ha,
   .gb_Z:hover .gb_4
   /*, .gb_C*/
-  ,
-  .gb_1a,
+
   .gb_Qc.gb_ec .gb_z,
   .gb_ec.gb_z
 
