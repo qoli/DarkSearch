@@ -8,9 +8,9 @@ regexp("https?://encrypted.google.(com|([a-z]{2}))(.[a-z]{2})?\\/((\\\\?|webhp|s
 regexp("https?://encrypted.google.(com|([a-z]{2}))(.[a-z]{2})?."),
 regexp("https?://www.google.(com|([a-z]{2}))(.[a-z]{2})?\\/_\\/chrome\\/newtab\\?.*") {
   /*
-	     * Name:    DarkSearch for Google
-	     * Author:  Nass O
-	     * Version: v2.1.8+
+	     * Name:    DarkSearch 2020
+	     * Author:  Qoli Wong
+	     * Version: v10.0.0
 	     */
 
 
