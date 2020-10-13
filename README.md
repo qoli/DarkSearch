@@ -2,7 +2,19 @@
 
 Dark theme for Google
 
+### How to use
+
+https://raw.githubusercontent.com/qoli/DarkSearch/master/DarkSearch.css
+
+![image-20201013205635694](https://gitee.com/qoli/u-pic/raw/master/uPic/image-20201013205635694.png)
+
+
+
 ### Update note
+
+##### 2020-10-13
+
+* Fix image search top
 
 ##### 2020-08-08
 

@@ -55,6 +55,10 @@ regexp("https?://www.google.(com|([a-z]{2}))(.[a-z]{2})?\\/_\\/chrome\\/newtab\\
   }
 
   /* Fix images */
+  
+  .Lj9fsd {
+    background-color: transparent !important;
+  }
   .cEPPT {
     display: none;
   }
