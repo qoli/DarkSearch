@@ -56,10 +56,9 @@ regexp("https?://www.google.(com|([a-z]{2}))(.[a-z]{2})?\\/_\\/chrome\\/newtab\\
     border-bottom: 1px solid #333;
   }
 
-  input:not(.OMiS2b):not(.G8DKPe),
-  #lst-ib,
-  select {
-    color: #000 !important;
+  .tfB0Bf input[type="submit"],
+  .gbqfba {
+    background: none;
   }
 
   /* Update 2020-12-12 */
