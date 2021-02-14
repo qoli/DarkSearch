@@ -42,6 +42,26 @@ regexp("https?://www.google.(com|([a-z]{2}))(.[a-z]{2})?\\/_\\/chrome\\/newtab\\
     --base-box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.2);
   }
 
+  /* Update 2021-02-15 */
+
+  .c93Gbe {
+    background: none;
+  }
+
+  .uU7dJb {
+    color: #999 !important;
+  }
+
+  .uU7dJb {
+    border-bottom: 1px solid #333;
+  }
+
+  input:not(.OMiS2b):not(.G8DKPe),
+  #lst-ib,
+  select {
+    color: #000 !important;
+  }
+
   /* Update 2020-12-12 */
 
   .yg51vc {
