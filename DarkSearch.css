@@ -44,7 +44,8 @@ regexp("https?://www.google.(com|([a-z]{2}))(.[a-z]{2})?\\/_\\/chrome\\/newtab\\
 
   /* Update 2021-02-15 */
 
-  .c93Gbe {
+  .c93Gbe,
+  .s8GCU {
     background: none;
   }
 
