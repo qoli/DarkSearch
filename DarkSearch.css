@@ -1,5 +1,5 @@
 /* ==UserStyle==
-@name			DarkSearch 2020
+@name			DarkSearch 2021
 ==/UserStyle== */
 
 @-moz-document regexp("https?://www.google.(com|([a-z]{2}))(.[a-z]{2})?."),
@@ -9,9 +9,9 @@ regexp("https?://encrypted.google.(com|([a-z]{2}))(.[a-z]{2})?."),
 regexp("https?://www.google.(com|([a-z]{2}))(.[a-z]{2})?\\/_\\/chrome\\/newtab\\?.*")
 {
   /*
-	     * Name:    DarkSearch 2020
+	     * Name:    DarkSearch 2021
 	     * Author:  Qoli Wong
-	     * Version: v10.0.0
+	     * Version: v10.0.1
 	     */
 
   :root {
@@ -40,6 +40,11 @@ regexp("https?://www.google.(com|([a-z]{2}))(.[a-z]{2})?\\/_\\/chrome\\/newtab\\
     --highlight-pop-selection-bg-opaque: rgb(30, 30, 30);
 
     --base-box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.2);
+  }
+
+  /* Update 2021-05-11 */
+  .aypzV {
+    color: #999 !important;
   }
 
   /* Update 2021-02-15 */
