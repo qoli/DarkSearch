@@ -8,25 +8,25 @@ https://raw.githubusercontent.com/qoli/DarkSearch/master/DarkSearch.css
 
 ![image-20201013205635694](https://gitee.com/qoli/u-pic/raw/master/uPic/image-20201013205635694.png)
 
-
-
 ### Update note
+
+##### 2021-05-11
+
+- Update auto tips color
 
 ##### 2020-10-13
 
-* Fix image search top
+- Fix image search top
 
 ##### 2020-08-08
 
-* Fix index more icon ( right up corner )
+- Fix index more icon ( right up corner )
 
 ##### 2020-08-07
 
-* Fix Search white bar
-* Fix News sytle
-* Fix images style
-
-
+- Fix Search white bar
+- Fix News sytle
+- Fix images style
 
 ### Preview
 
