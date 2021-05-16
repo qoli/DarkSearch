@@ -42,8 +42,9 @@ regexp("https?://www.google.(com|([a-z]{2}))(.[a-z]{2})?\\/_\\/chrome\\/newtab\\
     --base-box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.2);
   }
 
-  /* Update 2021-05-11 */
-  .aypzV {
+  /* Update 2021-05-17 */
+  .aypzV,
+  .wM6W7d {
     color: #999 !important;
   }
 
